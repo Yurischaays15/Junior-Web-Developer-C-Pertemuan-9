@@ -1,4 +1,5 @@
 # Junior-Web-Developer-C-Pertemuan-9
 Tugas Membuat Form Register Sederhana
 
-![tampilan form](https://user-images.githubusercontent.com/76260680/129429053-686c4352-285f-4dd5-a131-38748d8a7f5e.JPG)
+![tampilan form](https://user-images.githubusercontent.com/76260680/129429119-3d4c5714-7393-4a33-891b-e8adf9f7bc98.JPG)
+
